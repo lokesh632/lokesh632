@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Lokesh Kumar, A full-stack, frontend specializing Indie web & app dev<br> 
-🔱 Currently working at superu, https://superu.ai || https://github.com/govind-superu<br>
+🔱 Currently working at superu, https://superu.ai
 🌟 Off-late building some cool stuff with three.js <br>
 📫 Reach out to me at sainilokeshkumar.is143@gmail.com
 
