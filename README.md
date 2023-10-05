@@ -1,8 +1,14 @@
-# 💫 About Me:
-👋 Hi, I’m Lokesh Kumar, A full-stack, frontend specializing Indie web & app dev<br> 
-🔱 Currently working at superu, https://superu.ai
+<h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1659&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1659" /> </p>
+
+🔱 Currently working at superu, https://superu.ai <br>
+💬 Ask me about React.Js and Spring Boot
 🌟 Off-late building some cool stuff with three.js <br>
-📫 Reach out to me at sainilokeshkumar.is143@gmail.com
+📫 Reach out to me at sainilokeshkumar.is143@gmail.com <br>
+⚡ Fun fact I think I`m passionate about learning New skills Everyday <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-kumar-874ab6165/) [![LinkTree](https://img.shields.io/badge/linktree-%231DA1F2.svg?logo=linktree&logoColor=white)](https://linktr.ee/lokeshkumar07)
