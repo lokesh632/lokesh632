@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1659&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1659" /> </p>
 
-🔱 Currently working at AI Tools <br>
+🔱 Currently working at AI Tools Framework <br>
 🌱 I’m currently learning MERN Stack Developer Skills <br>
 💬 Ask me about React.Js and Spring Boot <br>
 🌟 Off-late building some cool stuff with three.js <br>
