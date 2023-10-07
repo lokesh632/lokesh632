@@ -20,8 +20,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh632&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh632&theme=dark&hide_border=false)
-![](https:.//github-redme-stats.vercel.app/api?userame=lokesh632&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh632&theme=dark&hide_border=false)<br>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=dark&hide_border=false" alt="pratham1659" />
 
 
 <!--
