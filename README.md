@@ -21,7 +21,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh632&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh632&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh632&show_icons=true&locale=en" alt="lokesh632" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh632&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lokesh632" /></p>
 
 <!--
 **lokesh632/lokesh632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
